@@ -1,1 +1,2 @@
-This line was changed by User 2 in branch-Y.
+This line is changed by User 2 in branch-Y.
+
