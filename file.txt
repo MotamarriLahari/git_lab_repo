@@ -1,2 +1,2 @@
-This line was changed by User 1 in branch-X.
+This line was updated by User2  in branch-B.
 
