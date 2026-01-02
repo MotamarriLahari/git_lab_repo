@@ -1,2 +1,2 @@
-This line was changed by User 1 in branch-X.
+This is conflicting change from branch-B       .
 
